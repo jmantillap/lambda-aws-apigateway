@@ -2,7 +2,7 @@
 Lambda invocada por apigateway. 
 Ejemplo de la invocación de una lambda desde otra lambda
 # Ejemplo
-(images/diagrama-lambdaApigateway-invoke-lambda.jpg)
+![Architecture](images/diagrama-lambdaApigateway-invoke-lambda.jpg)
 
 # Build and Test
 TODO: Describe and show how to build your code and run the tests. 
